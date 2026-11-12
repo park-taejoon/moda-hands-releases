@@ -1,8 +1,9 @@
 # Moda Hands 다운로드
 
-소개·사용법은 [modaolive.com/download/modaclip](https://www.modaolive.com/download/modaclip)에서 봅니다.
+LAN 키보드·마우스·클립보드 공유 (KVM over IP) — 같은 네트워크의 기기끼리
+중앙 서버 없이 직접 연결됩니다.
 
-최신 설치 파일은 **Releases**에서 받습니다.
+최신 설치 파일은 [Releases](https://github.com/park-taejoon/moda-hands-releases/releases/latest)에서 받습니다.
 
 - Windows: `*-win-x64-setup.exe` (설치) / `*-win-x64-portable.exe` (포터블)
 - macOS Apple Silicon: `*-mac-arm64.dmg`
